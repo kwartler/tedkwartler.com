@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://tedkwartler.com/sitemap.xml
+
+# LLM overview: https://tedkwartler.com/llms.txt

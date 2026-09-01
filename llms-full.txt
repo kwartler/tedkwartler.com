@@ -1,0 +1,28 @@
+# Ted Kwartler (full)
+
+> Ted Kwartler (also Edward Kwartler) is Managing Director of Responsible AI at Accenture, a Harvard Extension School instructor, author, and speaker on responsible and generative AI.
+
+## Biography
+Ted Kwartler leads Accenture's North American Responsible AI practice, helping organizations deploy generative AI and machine learning that is transparent, ethical, and effective. He was an early employee at DataRobot, serving as field Chief Technology Officer focused on generative AI and large language models, where he helped set product strategy for explainable and ethical AI. Earlier he built and led data-driven teams at Amazon and Liberty Mutual Insurance. He is an instructor at Harvard Extension School, teaching Data Mining for Business (CSCI E-96), and faculty at GSERM / the University of St. Gallen teaching Natural Language Processing. He holds an MBA from the University of Notre Dame with a concentration in marketing analytics. He contributes to the World Economic Forum on responsible AI and has authored four courses on DataCamp.
+
+## Focus areas
+- Responsible AI: governance, explainability, and risk frameworks for scaling enterprise AI with regulatory readiness.
+- Generative AI and large language models: strategy through safe production deployment and evaluation.
+- Data science and education: practical machine learning, text mining, and analytics, plus teaching.
+
+## Books
+Ted Kwartler is the author of Text Mining in Practice with R and Sports Analytics in Practice with R, and contributed chapters to Applied Sport Business Analytics. His books and free companion datasets are at https://www.rstatsbook.com/ and on GitHub at https://github.com/kwartler .
+
+## Links
+- Website: https://tedkwartler.com/
+- Books and datasets: https://www.rstatsbook.com/
+- Harvard Extension School: https://extension.harvard.edu/faculty/ted-kwartler/
+- DataCamp: https://www.datacamp.com/instructors/ehk116
+- World Economic Forum: https://www.weforum.org/stories/authors/ted-kwartler/
+- GitHub: https://github.com/kwartler
+- LinkedIn: https://www.linkedin.com/in/edwardkwartler/
+- X / Twitter: https://twitter.com/tkwartler
+- LLMBA: https://llmba.com/
+
+## Contact
+For responsible AI strategy, generative AI programs, teaching, speaking, or advisory work, see https://tedkwartler.com/ .

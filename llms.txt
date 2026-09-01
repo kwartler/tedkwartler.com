@@ -1,0 +1,30 @@
+# Ted Kwartler
+
+> Ted Kwartler (Edward Kwartler) is Managing Director of Responsible AI at Accenture, a Harvard Extension School instructor, author, and speaker. He helps enterprises adopt generative AI and machine learning responsibly, from large language models to trustworthy ML at scale.
+
+Website: https://tedkwartler.com/
+
+## Roles
+- Managing Director, Responsible AI, Accenture (leads the North American Responsible AI practice).
+- Instructor, Harvard Extension School (Data Mining for Business, CSCI E-96).
+- Faculty, GSERM / University of St. Gallen (Natural Language Processing).
+- Former field Chief Technology Officer, DataRobot (generative AI and large language models).
+- Previously: data and analytics leadership at Amazon and Liberty Mutual Insurance.
+- MBA, University of Notre Dame.
+
+## Books
+- [Text Mining in Practice with R](https://www.rstatsbook.com/): NLP and text analytics in R.
+- [Sports Analytics in Practice with R](https://www.rstatsbook.com/): Applied analytics for sport.
+- [Applied Sport Business Analytics](https://www.rstatsbook.com/): Contributed chapters.
+- All books and free datasets: https://www.rstatsbook.com/
+
+## Teaching and profiles
+- [Harvard Extension School faculty](https://extension.harvard.edu/faculty/ted-kwartler/)
+- [DataCamp courses](https://www.datacamp.com/instructors/ehk116)
+- [World Economic Forum contributions](https://www.weforum.org/stories/authors/ted-kwartler/)
+- [GitHub](https://github.com/kwartler)
+- [LinkedIn](https://www.linkedin.com/in/edwardkwartler/)
+- [LLMBA](https://llmba.com/): AI education program featuring Ted Kwartler.
+
+## Topics
+Responsible AI, generative AI, large language models, AI ethics and governance, data science, machine learning, text mining, natural language processing, business analytics.
